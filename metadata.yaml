@@ -1,0 +1,34 @@
+_repo: Queen-Lucia_6840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_bookshelf:
+- Humor
+- Best Books Ever Listings
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Lucia (Fictitious character) -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- GITenberg
+title: Queen Lucia
+url: http://www.gutenberg.org/ebooks/6840
